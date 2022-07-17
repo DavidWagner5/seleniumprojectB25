@@ -1,0 +1,28 @@
+and iframe is a HTML within another HTML page.
+Most of the time it is used to create independent sections in a page for advertisements, maps, video content, or anything independent.\
+
+to handle iframes you can focus the selenium driver on one thing at a time.
+we must focus the default frame to iframe in <html>
+
+if we try to locate any web element before switching, we will get NoSuchElementException
+
+1. by index
+starts from 0
+driver.switchTo().frame(index);
+
+2. by id value
+if there is id or name attribute we can pass their values as a string
+driver.switchTo().frame("id-name value");
+
+
+3. by locating as web element
+we locate the iframe tag itself as a web element and pass it into the method
+driver.switchTo().frame(WebElement);
+
+
+
+after switching to a frame, to focus back to the last frame we can
+driver.switchTo().parentFrame();
+driver.switchTo().defaultContent();
+
+

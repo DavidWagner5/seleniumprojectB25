@@ -1,0 +1,17 @@
+In my current project we have kind of a basic team structure of 11 people.
+in my team we currently have 1 PO, 1SM, 7DEV, 2QA
+our sprints within our project are 2 weeks, so that's the amount of time i have to finish my user stories as work
+we also have grooming meetings - where we basically get the rundown of our goals and userstories, and also
+our sprint planning meetings, these two meetings happen before our sprint cycle.
+i have 8 hours in my workday, so having meetings could easily take up around 3 hours
+In the sprint planning meeting we're assigned our user stories and given points
+On monday-thursday we have our daily stand-up meetings, this is where we go around in a circle and state what we worked
+on yesterday, what we're working on today, and potential blockers
+I also go on my jira board to assign myself tickets or userstories and start working on them if needed
+i do a lot of manual testing on a daily basis, but i also automate within my maven project
+The first thing i usually do is check my email for anything happening with jenkins, and see if my smoke testing is going well
+i also just plan my day if there are any meetings, im a big to do list person
+im extremely close with the developers in my team, when im asked to QA a code that they think is ready to be deployed,
+i provide maybe some suggestions on improvement and give honest feedback.
+
+

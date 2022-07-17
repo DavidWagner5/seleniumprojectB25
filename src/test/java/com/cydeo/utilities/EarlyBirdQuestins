@@ -1,0 +1,62 @@
+WHAT HAPPENS WHEN YOU FIND A DEFECT BUT DEVELOPER DOESNT AGREE
+first i would like to say that a defect is different than a bug,
+a defect is found during the development phase and a bug is typically found in the testing stage
+i understand that finding a defect might resort to some conflict between the tester and developer, so he or she might deny my proposal
+
+first and foremost, i will make sure io understand the requirements or acceptance criteria
+so before, i must make sure that the defect is valid, if it is valid, i will talk to the developer
+I will also take screenshots so i have proof of the defect.
+if the developer denies this defect, I will contact the developer and make sure we are understanding each other.
+If he/she still believes it is not valid,
+I will most likely go to the business team to get more clarity or clarification
+on the user story itself, then we can properaly decide what must be done and the best way to fix the defect.
+
+
+HOW DO YOU RUN YOUR REGRESSION
+how i run my regressions testing in my company
+2 types of regression testing minor and major rewgression tests
+first one we make sure that all the functionalities are working properly
+so we have our previous template and a when the new functionalities are implemented, we can run our minor regression
+The application has to be working as expected for a passing regression test
+if it doesn't for some reason, then we would have a failed regression test and rethink our approach or strategies
+For major regression we actually run before every release and it runs all of the developed functionalities
+we have about 800 test scenarios in my team
+We set up regression through jenkins and in the morning i make sure that my jenkins report isn't failing
+I like to run my regression testing during the night because it can take up to 7 hours for it to complete
+it's set up to run during a specific time of day, so that is usually when i check my email report.
+We use pipeline through jenkins so we can actually run our regression through different browsers such as chrome and firefox
+
+
+
+
+HOW DO YOU IMPLEEMENT CICD
+SO CICD REFERS TO CONTINUOUS INT AND CONTINUOUS DEPLOYMENT
+IN MY CURRENT PROJECT WE IMPLEMENT CICD BY USING JENKINS AND GITHUB, I USE JENKINS TO RUN MY SMOKE AND REGRESSION SUITE
+THESE TWO TOOLS HELP US ACHIEVE CONTINUOUS INTEGRATION AND CONTINUOUS DEPLOYMENT
+SO MOST IMPORTANTLY THE DEVELOPERS IN MY TEAM PREFORM UNIT AND INTEGRATION STAGES and  i should also mention THEY ARE ABLE TO GENERATE PIPELINES
+THEN THE DEVELOPERS ARE ABLE TO SEND IT TO THE QA ENVIRONMENT SO THAT I CAN TEST IF THE FEATURES ARE BUG FREE
+IN JENKINS A UNIQUE LINE IS WRITTEN THAT IS DIRECTLY CORRELATED TO THE FEATURES WITHIN THE REPOSITORY
+ALSO, I SHOULD INCLUDE THAT SINCE JENKINS IS ABLE TO OPERATE AND SEND INFORMATION ON A SET SCHEDULE, A TIME IS ADDED SO THAT I RECEIEVE REPORTS AT THE SAME TIME EACH DAY
+IN JENKINS I ACTUALLY NEED TO PROVIDE MY GIT REPOSITORY INFO AS WELL SO IT CAN PROPERLY LINK TOGETHER
+THE REPORTS ARE IMPORTANT BECAUSE IT GIVES ME INFORMATION ON EVERYTHING I NEED TO KNOW ABOUT THE TEST THAT TOOK PLACE,
+THIS WAY JENKINS IS ABLE TO CONTINOUSLY RUN THE MOST UPDATED VERSION THAT IS PROVIDED
+
+
+WHY SHOULD WE HIRE YOU
+i believe i have all the knowledge and skills needed to hold a position as a QA or SDET
+I am confident in my techncial abilities such as test automation and manal testing
+i can also use various tools and multiple platforms to get my job done
+this also means that if i am needed to perform a task on some tool or platform that im not familiar with
+i can easily translate my skillset so that i can be well aquainted and learn effeciently
+
+i come from an educational background and a college background so i udnerstand hard work
+I find that the most value in a hard worker has to with the time that they put in and dedication
+i am very dedicated to getting my work done
+
+i also am a great communicator and self advocate. I think in my past company i was able to build strong
+connections with people because of my speaking skills
+
+
+
+
+

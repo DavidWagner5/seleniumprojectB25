@@ -1,0 +1,235 @@
+
+
+MY FRAMEWORK:
+java
+github version control
+selenium automation testing with test ng
+maven project
+pom xml file to store dependencies
+singleton design pattern for once instance of driver
+surefire plugin paralle testing
+pom design pattern for prop file store reusable material in pages class
+cucumber bdd framework with junit, also familiar with apache poi
+step definitions
+feature files
+sql experience when it comes to working with databases
+
+
+ my main coding language is java and i am very confident with selenium as well for test automation.
+
+ - in my company we utilize github as our version control system and i am very confident in it as i have been working with it for quite some time
+ - we also use jira to manage our manual test cases
+
+
+ - in my framework we also in my maven project i store all of my dependencies in my pom xml,
+ where i can access things like java-faker and testng if i wish,
+
+ - when it comes to my knowledge of selenium, i have used the singleton design pattern which allows me to operate one instance of
+ driver across all my automation tests
+
+ - we also use the pom design pattern, which means i have operated through my properties file to store common data that i can use across all tests
+
+- i use cucumber with junit for some automation testing, and it also allows me to implement BDD approach,
+- this is for non technical people on my team so that they can understand with gherkin language, within cucumber,
+
+- i also have a hooks class that i have set up where i can take a screenshot for my report if the tests fails,
+
+ I trigger my framework from my runner class.
+- Runner class allows me to run different types of testing suites that I created with my tags, such as smoke, regression, mini-regression.
+- I have different types of reports.
+But mainly I use "maven-cucumber-reporting" which is a very detailed reporting tool that has pie-charts, matrixes on which tests are passing and failing.
+
+- in my cucumber project we also are able to run parallel testing, which means we can run every feature at the same time regardless of the tags we have
+
+- i use pom design pattern within a class so that all members of our team can access elements easily, it is some reusable data that can also be easily changed.
+this class is called my configurations.properties class.
+
+- i am using the singleton pattern to allow me to have one instance of webdriver and i can use it across all my classes,
+to implement it i used the OOP concept encapsulation.
+
+- I'm also capable of using certain plugins within my pom.xml file such as the surefire plugin, where i can simultaneously automate tests using different browsers,
+in parallel testing as i mentioned before.
+
+- i am also familiar with apache POI, but I have not used it in my company
+
+
+
+
+
+
+
+MY FRAMEWORK:
+java is my main programming language, I actually know sql very well too and am confident writing queries
+in my company we use github for our version control system and i am very confident in it and have been using it for all my projects
+we have our maven project for test automation
+selenium automation testing with testng methods for organizing test cases and assign priority to them,
+i can also use junit and have a lot of experience with these two tools
+Selenium i have used for automating applications through the front end
+pom xml file to store dependencies such as testng, hamcrest matchers for assertions in api,
+i have also used singleton design pattern within my project for Webdriver ease of access
+for my plugins i have surefire plugin for parallel testing which means i can run all my features at the same time
+pom design pattern for prop file store reusable material in a pages class
+i have experience with cucumber bdd framework,
+in my past cucumber experience ive used
+step definitions class where i store my gherkin snippets with code
+and feature files, where the scenarios and features can be easily understood
+also familiar with apache poi modifying office files
+For smoke testing im comfortable with jenkins which allows me to run test cases on a set schedule
+i have sql experience when it comes to working with databases, as mentioned before i am confident writing queries
+i use jdbc to connect my database to my IDE by creating connections through intellij
+in api, i am capable of doing manual api testing through postman
+im familiar , and automation using rest assured.
+within my API knowledge i also use POJO, where i find it is easier for me to organize and automate API material
+
+
+
+
+
+
+about myself
+first id like to thank you for having me and giving me the opportunity take this interview
+my name is david, i actually
+graduated with a teaching degree until i started to explore my passion for IT a few years ago
+my main coding language is java and also SQL and i am very confident with selenium as well for test automation.
+as of now i have been in IT for 2 years where i have been a QA for my company,
+I have been testing web based applications in my 2 years.
+in my time in my company i have gained a wide understanding of manual and automation testing
+i am currently operating through a cucumber BDD framework in my project, (vytrack web application)
+we have two testing teams in our project actually. one focuses on API testing and the other on UI testing.
+I am a part of the UI team do manual and automation testing in my team
+for each 2 sprint cycle we have, i am assigned a user story
+and in this project i utilize tools and methodologies such as gherkins language, POM design pattern to store reusable web elements in a pages class
+i am very confident on writing queries as well if i am ever needed for database testing.
+for our version control we use git and github for collaboration.
+for manual test case setup we use jira.
+Lastly i have experience creating a framework from scratch using POM design pattern
+as far as my daily activities go, in my current team right now i run smoke and regression suites,
+smoke testing usually takes about 30 minutes at 8:30 in the morning and i operate it using jenkins
+in my team we use selenium and cucumber for test automation
+I work in an agile scrum environment where everyone has their separate roles,
+we have one additional QA tester in my team
+
+
+
+
+
+MY PROJECT:
+AS MENTIONED BEFORE/// i am currently operating through a cucumber BDD framework in my project, (FLEETREO)
+So our web application primarily focuses on being a transportation management tool that companies can use to track the vehicles they have
+this is usually done for managing and tracking deliveries
+OUR APPLICATION IS CALLED FLEETREO
+We have many different modules, such as GPS tracking, employee work logs, Calendar features, Creating contracts, and a communication module that i currently worked on
+In the future, i believe that my company will build on modifying and updating the damage and maintenance feature on the application.
+we have two testing teams in our project actually. one focuses on API testing and the other on UI testing.
+As for some of the meetings or ceremonies my agile team has
+On monday-thursday we have our daily stand-up meetings, this is where we go around in a circle and state what we worked
+on yesterday, what we're working on today, and potential blockers
+We also have demo and retro meetings, and we have grooming and sprint planning meetings before the start of each sprint
+I am a part of the UI team do manual and automation testing in my project
+I'm responsible for the calendar feature module through UI testing,
+my main responsibility is to maintain my teams framework and run smoke and regression suites.
+This application also has a db layer with oracle so if my team lead asks me to tests through queries i can do it.
+
+MAYBE????
+
+
+
+
+
+
+
+i am open to learning new things if it is necessary and i consider myself a very good communicator.
+in my past profession as a teacher, I think my communication skills critical thinking skills translate nicely to my current career
+I've decided to make a step towards a new job because I feel like there are better opportunities out there for me and new challenges.
+I consider myself a very friendly and easy going person and team member,
+I love to collaborate and work with others in our projects and work hard to deploy what my company envisions.
+With whoever i work with in the future, I plan to build strong relationships because i believe it is a crucial part to being a member of a team.
+I also consider myself a very hard worker, my main strength my team is that i am open to new challenges and new approaches,
+i also like to complete my work as effeciently as possible
+
+
+
+
+
+HELLO ARE YOU CURRENTLY IN THE MARKET?
+yes i am in the job market right now, im seeking a new opportunity as a QA tester!
+
+CAN YOU TELL ME ABOUT YOURSELF AND WHAT HAVE YOU BEEN DOING IN IT
+can you tell me about yourself and what do you do in IT
+So ive been in IT for just under 2 years, my main coding language is java and i have so far been doing manual and automation UI testing in my teams framework.
+and i also know selenium as an automation tool and i have some experience with rest assured for API testing.
+My company name is fleetreo, and we work on a fleet management web application that easily company verhicles
+
+
+WHAT ARE THE TOOLS YOU HAVE EXEPRIENCE WITH AND PROJECT
+Java is my main programming language, i also have expeirnece with tools such as selenium webdriver, cucumber, sql database, rest assured for API testing, postman, and my company
+is using jira. github as our choice for version control.
+inmy project there is an implemented cucumber BDD framework. I'm actually on the UI testing team where we utilize this project.
+So our web application primarily focuses on being a transportation management tool that companies can use to track the vehicles they have
+this is usually done for managing and tracking deliveries
+I'm responsible for the calendar feature module through UI testing,
+my main responsibility is to maintain my teams framework and run smoke and regression suites.
+The app i work on also has a db layer with oracle so if my team lead asks me to tests through queries i can do it.
+
+
+WHY ARE YOU LOOKING FOR A NEW OPPORTUNITY
+my project is actually ending soon, so i feel like it's a good time to find another company that might be a nice fit for me.
+My friend actually moved from one company to another recently in the same field, so he recommended that at my age it's good to explore a
+little bit and i definitely felt up for it
+
+
+CURREENT SALARY REQUIREMENTS
+so right now i'm working for 42/hr with all benefits and 401k. So i would like to work for around that or anything above.
+2 weeks after i accept before i can fully be in that role
+
+DDT
+data driven testing I have actually done in my cucumber framework using a scenario outline,
+making a testing with parameters to validate tables,
+I have also dont DDT through API testing doing a parameterized test with excel sheets. So I can verify key and value
+structures from my intellij by extending an excel document.
+
+
+
+SDLC PROCESS AND STLC PROCESS
+SDLC has 6 phases
+REQUIREMENT PHASE- this is where the SRS document starts being put together, The team analyzes the economic,
+law regulatory,
+and scheduling aspects of creating the new product. All non functional and functional requirements are thought out
+DESIGNING - developers design the ui database and api, and relationships between modules
+CODING/DEVELOPING - developers build the software in programming language, front end dev, back end, full stack
+usually the longest stage of the cycle
+TESTING - anaqlyze requirements and plan how to test, write test case docments and prepare data,
+identify bugs and write bug reports, automate test cases, manually test acceptance criteria/userstories.
+DEPLOYMENT/PRODUCTION/RELEASE - moved the software tot he production environment
+MAINTENANCE - any missed bugs are looked at and new features can be added during this time
+
+
+STLC
+sub lifecycle of the sdlc process. Occurs in testing step
+
+Test Planning − Test Team plans the strategy and approach.
+Test Case Designing − Develop the test cases based on scope and criteria's.
+Test Environment Setup − When integrated environment is ready to validate the product.
+Test Execution − Real-time validation of product and finding bugs.
+
+
+
+CI/CD PROCESS
+
+CONTINUOUS INTEGRATION
+So for the Cicd process we have a bunch of different tools that work together to make it happen
+For continuous integration we are able to utilize git and github for the process. Developers will
+provide the build that they crafted and push it to the repository which then goes to devops
+devops are able to approve the build and that is when the QA will be able to download the build
+and start testing it. Developing the code, building, downloading, and testing.
+
+CONTINUOUS DELIVERY
+this process is an enhancement of the continuous integration process, The one additional step
+to this is called the release process. Builds are created, testing is done, then release
+This process is happening in a big wheel. To automate this process, devops uses jenkins or dockers
+In Jenkins the devops team actually provides the tag for the job, and github link (repository URL) for the job, provide
+the timeframe that the regression is to be executed, and also. So this is actually the devops responsibility.
+
+This entire process is really effecient because it automates everything that we would otherwise be doing manually
+and would just take a super long time.
+
